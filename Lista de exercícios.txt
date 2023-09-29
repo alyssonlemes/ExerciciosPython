@@ -1,0 +1,31 @@
+Lista de exercícios
+
+1) Fazer um algoritmo que leia um número e imprima se o número é par ou ímpar.
+
+2)Escreva um algoritmo que leia dois valores inteiros e diferentes, e mostre-os em ordem decrescente.
+
+3)Fazer um algoritmo que leia 3 valores inteiros e verifique se eles podem formar  um triângulo. Se for possível formar um triângulo, escreva uma mensagem informando se é um triângulo equilátero, isósceles ou escaleno.
+
+Observações:
+
+- O comprimento de um lado do triângulo é sempre menor do que a soma dos outros dois.
+- Equilátero:  todos lados iguais
+- Isósceles: dois lados iguais
+- Escaleno: todos os lados diferentes
+
+4)Tendo como dados de entrada a altura e o sexo de uma pessoa, construa um algoritmo que calcule o seu peso ideal, utilizando as seguintes fórmulas:
+- para homens:   (72.7 * h) - 58
+- para mulheres: (62.1 * h) - 44.7
+
+5)Escreva um algoritmo que leia três valores inteiros e diferentes e mostre-os em ordem decrescente. Utilize para tal uma seleção encadeada.
+
+6)Um posto está vendendo combustíveis com a seguinte tabela de descontos:
+
+Álcool
+- até 20 litros, desconto de 3% por litro
+- acima de 20 litros, desconto de 5% por litro
+Gasolina
+- até 20 litros, desconto de 4% por litro
+- acima de 20 litros, desconto de 6% por litro
+
+Escreva um algoritmo que leia o número de litros vendidos e o tipo de combustível (codificado da seguinte forma: A-álcool, G-gasolina), calcule e imprima o valor a ser pago pelo cliente sabendo-se que o preço do litro da gasolina é R$ 3,30 e o preço do litro do álcool é R$ 2,10.
